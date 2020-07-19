@@ -1,0 +1,5 @@
+this is a test for git 
+add a new txt when I was in otherGit responsitory 
+so push it to gitTest responsitory 
+
+this is a test  just soo
